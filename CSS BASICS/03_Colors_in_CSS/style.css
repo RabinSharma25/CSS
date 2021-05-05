@@ -1,0 +1,15 @@
+/* There are 140 standard colors in html */
+
+body{
+
+color: blue; /* normal way to set color*/
+
+color: rgb(136, 42, 165); /* Rgb way to set color*/
+
+color: #ffffff; /* Hexadecimal way of setting color*/
+
+color:hsl(hue, saturation, lightness); /* Color can be set using hsl values too */
+color:hsl(45, 100%, 45%)
+
+/* Note:: The final color set is the latest updated color */
+}

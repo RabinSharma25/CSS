@@ -1,0 +1,21 @@
+.first{
+    background:grey;
+    height: 200px;
+    width: 400px;
+    color: red;
+    margin: 56px;
+    padding: 50px;
+    float: right;
+    display:inline-block;
+}
+.second{
+    color: red;
+    background:grey;
+    height: 200px;
+    width: 400px;
+    margin: 56px;
+    padding: 50px;
+    display:inline-block;
+
+}
+

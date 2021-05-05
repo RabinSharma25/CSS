@@ -1,0 +1,34 @@
+body{
+
+    font-size: 38px;
+    color: chocolate;
+    text-align: center;
+
+}
+
+p{
+
+    text-align:center;
+    color: cyan;
+
+}
+
+.bdy a{
+
+    /* text-decoration: none;
+    text-decoration: line-through;
+    text-decoration:overline;
+    text-decoration: underline; 
+
+    Try one by one */
+
+    text-transform: uppercase; /* Everything capitalize*/
+    text-transform: capitalize; /* First letter of the word capitalize*/
+    letter-spacing: 37px;
+    word-spacing: 100px;
+    text-shadow: 2px 5px 10px crimson; /* syntax-- text-shadow:x-axis y-axis clearity color*/
+    
+     /*The first parameter moves the shadow right-left, the second attribute moves the shadow up-down and the third attribute manages the clearity of the shadow*/
+
+     direction:rtl; /* Similar to alignment*/
+}

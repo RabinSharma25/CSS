@@ -1,0 +1,22 @@
+.div1{
+    border-width: 5px;
+    width: 1000px;
+    height: 200px;
+    border-color: chartreuse;
+    border-style:solid;
+    margin-bottom: 200px;
+
+    padding-top: 100px;
+    padding-left: 45px;
+    padding-right: 78px;
+    
+    outline:4px solid black 
+}
+.div2{
+    border-width: 5px;
+    width: 1000px;
+    height: 200px;
+    border-color: chartreuse;
+    border-style:solid;
+    margin-top: 100px;
+}

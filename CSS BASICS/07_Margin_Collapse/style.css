@@ -1,0 +1,16 @@
+.div1{
+    border-width: 5px;
+    width: 1000px;
+    height: 70px;
+    border-color: chartreuse;
+    border-style:solid;
+    margin-bottom: 200px;
+}
+.div2{
+    border-width: 5px;
+    width: 1000px;
+    height: 70px;
+    border-color: chartreuse;
+    border-style:solid;
+    margin-top: 100px;
+}

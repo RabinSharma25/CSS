@@ -1,0 +1,46 @@
+<!-- CSS can be added internally in an html document inside the <style></style> tag. -->
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+
+    <style>
+        .list{  /* we used the class selector here it targent the list class */
+            background-color: rgb(0, 98, 255);
+            color: snow;
+        }
+
+     span{ /* We used the element selector here, it target all the span element */
+        color: teal;
+        text-align: center;
+    }   
+
+     #lst1{ /* We used the id selector here to target a particular element */
+        color: tomato;
+    }
+
+        
+    </style>
+</head>
+<body>
+    <div class = list>
+        <ul>
+            <h1>This is the heading of the list</h1>
+            <li id = "lst1">Robin </li>
+            <li id = "lst2">Rohan </li>
+            <li id = "lst3">Rohit </li>
+            <li id = "lst4">Roman </li>
+            <li id = "lst5">Rival </li>
+        </ul>
+    </div>
+
+    <span>
+        <h1>This is a span Tag</h1>
+    </span>
+</body>
+</html>

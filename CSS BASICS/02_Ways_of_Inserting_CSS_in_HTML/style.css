@@ -1,0 +1,24 @@
+/* syntax for selectors
+
+selector{
+    property1:value1;
+    property2:value2;
+    property3:value;
+         .
+         .
+         .
+         .
+} */
+
+
+.list{  /* we used the call selector here it targent the list class */
+    background-color: rgb(0, 98, 255);
+    color: snow;
+}
+
+span{ /* We used the element selector here, it target all the span element */
+color: teal;
+text-align: center;
+}   
+
+

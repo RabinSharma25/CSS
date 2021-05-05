@@ -1,0 +1,12 @@
+.list{
+
+    background-color:indianred;
+    margin: 6px;
+    height: 40px;
+
+
+}
+
+.items{
+    display: inline;
+}

@@ -1,0 +1,19 @@
+.myflex{
+display: flex;
+/* flex-direction: row; */
+/* flex-direction: row-reverse; */
+flex-direction: row;
+flex-wrap: wrap;
+justify-content:center;
+background-color: seagreen;
+height: 150px;
+align-items: center; /*To align the items virtically centre */
+}
+
+.myflex div{
+    background-color: red;
+    height: 80px;
+    width: 80px;
+    font-size: 25px;
+    margin: 4px;
+}

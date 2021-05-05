@@ -1,0 +1,25 @@
+.form{
+    background-color: rgb(180, 180, 180);
+    color: rgb(133, 33, 33);
+    font-size: 25px;
+    margin: 4px;
+    border-color: chartreuse;
+    height: 350px;
+    padding: 45px;
+    padding-top: 3px;
+
+
+}
+
+.form input{
+
+    background: rgb(167, 166, 166);
+
+    height: 20px;
+    size: 8px;
+    border-color: blue;
+}
+
+.form p{
+    margin-bottom: 2px;
+}

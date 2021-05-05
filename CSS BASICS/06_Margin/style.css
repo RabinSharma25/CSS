@@ -1,0 +1,33 @@
+.list{
+
+    background-color:grey;
+    border-style: solid;
+    border-radius: 19px;
+    /* margin-right: 700px; */
+    margin: 37px;
+    width: 1200px;
+    height: 70px;
+
+    /* short hand notation of margin 
+    
+    margin: margin-top margin-right margin-botton margin-left
+    
+    */
+}
+
+.item{
+
+    color: rgb(3, 1, 1);
+    text-align: center;
+    word-spacing: 100px;
+}
+
+.items{
+
+color: chartreuse;
+display: inline;
+font-size: 38px;
+
+
+
+}

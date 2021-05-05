@@ -1,0 +1,15 @@
+.list{
+    border-style: solid;
+    border-width: 2px;
+    border-color: indianred;
+    border-top-style: dashed;
+    border-left-style: dotted;
+    border-right-style: double;
+    border-radius: 17px; /*For the curve structure of the edges*/
+
+    /* configuring the size of the border can be done using width: ; and height: ; */
+
+    /* shortcut for inserting data to a border */
+
+    /* border:4px dotted blue */
+    } 

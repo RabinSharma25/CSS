@@ -1,0 +1,13 @@
+body{
+
+   color: red;
+    background-image: url("bg.jpeg");
+    background-repeat:no-repeat;
+    background-position: left top;
+    background-attachment: fixed; /* has no effect on scrolling the page */
+
+    /* Short hand notation
+    syntaxt:
+    background:backgound-color background-image repeat_pattern alignment
+    */
+    }

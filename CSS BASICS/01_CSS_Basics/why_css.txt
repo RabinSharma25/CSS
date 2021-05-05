@@ -1,0 +1,3 @@
+why actually was css made ?
+
+Ans:: CSS is a language which manages the style of a HTML document
